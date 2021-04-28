@@ -4,7 +4,9 @@ In this project you have to make a data collection form that will contain 2 two 
 enter the information of the user and that data should be saved on the next page .You have to make the
 navigation bar also so that we can navigate both of the page .
 Description are as follow: -
+
 First page(Profile ):-
+
 a) You have enter the details of the user such as Name,Age,Email Id,Address and phone number.
 1)On submit it should save the data in the database and the data should also be display in the next
 page.
